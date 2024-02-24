@@ -15,28 +15,9 @@ The ReactJS Chat Application is a modern web-based chat platform designed to fac
 
 ## Development Phases
 
-### Phase 1: Initial Setup and User Authentication
+### Phase 1 and 2: UI
 
-- **Screenshot 1:** Developing the NavBar and chat history
-  ![Navbar and Chat UI](Screenshots/navbar.png)
-
-- **Screenshot 2:** Signup Page
-  ![Signup Page](screenshots/signup-page.png)
-
-### Phase 2: Real-time Messaging Implementation
-
-- **Screenshot 3:** Chat Interface
-  ![Chat Interface](screenshots/chat-interface.png)
-
-- **Screenshot 4:** Sending Messages
-  ![Sending Messages](screenshots/send-message.png)
-
-### Phase 3: Message Persistence and Additional Features
-
-- **Screenshot 5:** Chat History
-  ![Chat History](screenshots/chat-history.png)
-
-- **Screenshot 6:** User Profile Settings
-  ![User Profile Settings](screenshots/user-settings.png)
+- **Screenshot:** Developing the NavBar and chat history
+  ![Navbar and Chat UI](Screenshots/phase2.png)
 
 
